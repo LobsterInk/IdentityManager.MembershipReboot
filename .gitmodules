@@ -1,0 +1,4 @@
+[submodule "BrockAllen.MembershipReboot"]
+	path = BrockAllen.MembershipReboot
+	url = git@github.com:LobsterInk/BrockAllen.MembershipReboot.git
+	branch = master
